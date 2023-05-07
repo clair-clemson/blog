@@ -1,7 +1,7 @@
 # Site settings
-title:       -
+title:       "no title"
 email:       yifank@clemson.edu 
-author:      -
+author:      ""
 description: "-"
 baseurl:     "/blog"
 url:         "https://yifan-k.github.io"
