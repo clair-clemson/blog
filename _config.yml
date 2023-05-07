@@ -4,7 +4,7 @@ email:       yifank@clemson.edu
 author:      ""
 description: "-"
 baseurl:     "/blog"
-url:         "https://yifan-k.github.io"
+url:         "https://clair-clemson.github.io"
 date_format: "%b %-d, %Y"
 timezone:    America/New_York
 
