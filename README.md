@@ -1,1 +1,1 @@
-Visit [https://yifan-k.github.io/blog/](https://yifan-k.github.io/blog/)
+Visit [https://clair-clemson.github.io/blog/](https://clair-clemson.github.io/blog/)
