@@ -1,8 +1,8 @@
 # Site settings
-title:       Off the convex path
-email:       offconvex@mrtz.org 
-author:      Moritz Hardt
-description: "Algorithms off the convex path."
+title:       -
+email:       yifank@clemson.edu 
+author:      -
+description: "-"
 baseurl:     "/blog"
 url:         "https://yifan-k.github.io"
 date_format: "%b %-d, %Y"
