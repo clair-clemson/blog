@@ -22,7 +22,7 @@ future: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: clair-clemson
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
