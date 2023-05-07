@@ -3,7 +3,7 @@ title:       Off the convex path
 email:       offconvex@mrtz.org 
 author:      Moritz Hardt
 description: "Algorithms off the convex path."
-baseurl:     "/testblog.github.io"
+baseurl:     "/blog"
 url:         "https://yifan-k.github.io"
 date_format: "%b %-d, %Y"
 timezone:    America/New_York
