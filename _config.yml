@@ -18,11 +18,11 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
-future: true
+future: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: offconvex
+disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
